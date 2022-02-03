@@ -1,5 +1,7 @@
+import Wrapper from './ContainerComponents/Wrapper'
+
 const App = () => {
-  return <>Hello world</>
+  return <Wrapper />
 }
 
 export default App
