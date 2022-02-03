@@ -1,7 +1,7 @@
-import Wrapper from './ContainerComponents/Wrapper'
+import React from 'react'
 
 const App = () => {
-  return <Wrapper />
+  return <div></div>
 }
 
 export default App
